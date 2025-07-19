@@ -1,0 +1,11 @@
+{
+  "name": "mywebserver",
+  "version": "1.0.0",
+  "description": "application kely",
+  "main": "server.js",
+  "scripts": {
+    "mox": "node server.js"
+  },
+  "author": "Mox",
+  "license": "ISC"
+}
